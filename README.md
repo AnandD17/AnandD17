@@ -9,7 +9,7 @@
 
  💬 Ask me about Full Stack Development things.
 
-![Profile views](https://gpvc.arturio.dev/prynsh7)  <img src="https://img.shields.io/github/followers/anandD17?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/anandd17)  <img src="https://img.shields.io/github/followers/anandD17?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
