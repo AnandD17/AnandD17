@@ -2,6 +2,8 @@
 
 ---
  🐱‍🏍 I am FullStack Web Developer (MERN) Stack 
+ 
+ 🔭 I’m currently working on Blockchain Development
 
  📚 Interested in Future Tech like AR / VR and Blockchain Development
 
@@ -21,11 +23,11 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandD17&&theme=radical&&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandD17&&theme=radical&&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats)
 
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandD17&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats)
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandD17&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats) -->
 
 
 <!--
