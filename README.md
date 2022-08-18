@@ -9,7 +9,7 @@
 
  💬 Ask me about Full Stack Development things.
 
-![Profile views](https://gpvc.arturio.dev/anandD17)  <img src="https://img.shields.io/github/followers/anandD17?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/AnandD17)  <img src="https://img.shields.io/github/followers/AnandD17?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
@@ -23,9 +23,9 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandd17&&theme=radical&&include_all_commits=true)](https://github.com/anandd17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandD17&&theme=radical&&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats)
 
-[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandd17&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anandd17/github-readme-stats)
+[![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnandD17&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AnandD17/github-readme-stats)
 
 
 <!--
