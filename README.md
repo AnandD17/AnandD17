@@ -3,6 +3,8 @@
 ---
 <h3 align="center">I am FullStack Web Developer (MERN) Stack</h3>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y1b3BzNHZxY2w3cnlyeWVkMWd2YTJlYTdvMmYya2xocXZwZm5qNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J6JazAkCVLId91L4yM/200.gif" alt="anand-weeb"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandd17&label=Profile%20views&color=0e75b6&style=flat" alt="anandd17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandd17" alt="anandd17" /></a> </p>
