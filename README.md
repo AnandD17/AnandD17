@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anand!
 
 ---
-<h3 align="center">I am FullStack Web Developer (MERN) Stack</h3>
+<h3 align="center">I am FullStack Web Developer (MERN)</h3>
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y1b3BzNHZxY2w3cnlyeWVkMWd2YTJlYTdvMmYya2xocXZwZm5qNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J6JazAkCVLId91L4yM/200.gif" alt="anand-weeb"/>
 
