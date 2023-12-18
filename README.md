@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **react, tailwind, and fullstack development**
 
-- 📫 How to reach me **anandd17.dev@gmail.com**
+- 📫 How to reach me **anand17.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
