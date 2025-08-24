@@ -1,71 +1,113 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Anand!
+# Hi, I’m Anand 👋
+
+**Full‑Stack Engineer (TypeScript • React/Next.js • Node.js) — building GenAI‑powered products & automation.**
+
+> **Vision:** AI‑driven development that turns workflows into reliable, measurable agents — from outreach and scheduling to support and commerce.
 
 ---
-<h3 align="center">I am FullStack Web Developer (MERN)</h3>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y1b3BzNHZxY2w3cnlyeWVkMWd2YTJlYTdvMmYya2xocXZwZm5qNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/J6JazAkCVLId91L4yM/200.gif" alt="anand-weeb"/>
+## What I’m focused on
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anandd17&label=Profile%20views&color=0e75b6&style=flat" alt="anandd17" /> </p>
+* **Agentic workflows**: email sequencing, candidate/recruiter scheduling, inbox triage, and follow‑ups.
+* **RAG & knowledge interfaces**: retrieval over docs, tickets, catalogs; chat + actions.
+* **Commerce & messaging automation**: WhatsApp + Shopify flows, templates, product carousels.
+* **Journey/Flow builders**: React Flow–based builders with triggers, delays, splits, AI nodes.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandd17" alt="anandd17" /></a> </p>
+## Experience
 
-- 🔭 I’m currently working on **Blockchain Development**
+* **Software Developer — SproutsAI**
+  Building AI‑assisted outreach & scheduling modules (email sequencing, tracking, responses, Google/Outlook integrations). Led frontend performance work and aggregation‑driven APIs.
+* **Full‑Stack Developer — Congle India**
+  Portals (events, café, super‑admin), atomic design, React ecosystem migration, React Native app, performance (Core Web Vitals).
+* **Software Developer — Nexenstial**
+  University ERP migration (PHP → MERN), shipped HR/payroll/leave modules across multiple universities.
+* **Contract — PacketFanatic**
+  Invoice management tool, Redux state model, Jest/Storybook.
 
-- 🌱 I’m currently learning **Future Tech like AR / VR and Blockchain Development**
+## Selected work
 
-- 👯 I’m looking to collaborate on **Interesting Projects**
+* **Email Sequencing Engine (Closed‑source)** — multi‑step sequences, smart delays, conditional splits, attachment handling, deliverability metrics, and response capture.
+* **Autonomous Scheduler (Closed‑source)** — LLM‑assisted interview scheduling across Gmail/Outlook Calendars with availability, rescheduling, outcomes & reminders.
+* **Journey Builder (Closed‑source)** — React Flow UI for triggers, AI nodes, WhatsApp/email nodes, conditionals; JSON schema–backed.
+* **Avatar Room** — virtual hang‑outs with chat & avatars.
+  `JS • Socket.io • Node`
+* **Vehicle‑to‑Vehicle Comms (PoC)** — near‑real‑time React + sockets demo.
+  `React • Tailwind • Node • Socket.io`
+* **Triangle Max‑Path Visualizer** — upload a text file, render the optimal path.
+  `React`
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/anand-doddamani-b95896219/](https://www.linkedin.com/in/anand-doddamani-b95896219/)
+> I’m happy to share private demos/case studies on request.
 
-- 📝 I regularly write articles on [Software Development](Software Development)
+## Skills & Tools
 
-- 💬 Ask me about **react, tailwind, and fullstack development**
-
-- 📫 How to reach me **anand17.dev@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
-
-- ⚡ Fun fact **Nothing**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/anandd17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anandd17" height="30" width="40" /></a>
-<a href="https://twitter.com/anandd017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anandd017" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anand-doddamani-b95896219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anand-doddamani-b95896219/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anand doddamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anand doddamani" height="30" width="40" /></a>
-<a href="https://medium.com/@anandd17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anandd17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anand017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anand017" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/01fe20bec102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="01fe20bec102" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anandd17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anandd17" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white" alt="SvelteKit"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white" alt="Google APIs"/>
+  <img src="https://img.shields.io/badge/Outlook%20API-0A5BD3?logo=microsoftoutlook&logoColor=white" alt="Outlook API"/>
+  <img src="https://img.shields.io/badge/WhatsApp%20Business-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Business"/>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<details>
+<summary>More I use regularly</summary>
 
+**Core:** TypeScript, JavaScript (ES6+), Node.js, Express, React, Next.js, SvelteKit, React Native
+**State/UI:** Redux, Zustand, Tailwind CSS, Framer Motion
+**Data:** MongoDB, MySQL
+**AI/LLMs:** OpenAI API, prompt engineering, tools/functions, **RAG** (vector search, embeddings), evaluation & guardrails
+**Integrations:** Google & Outlook APIs, WhatsApp Business (Cloud/On‑Prem), Shopify
+**DevEx:** Git/GitHub, Postman, Vite, Turborepo, Jest, Storybook
 
-<h3 align="left">Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anandd17&show_icons=true&locale=en&layout=compact" alt="anandd17" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anandd17&show_icons=true&locale=en" alt="anandd17" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandd17&" alt="anandd17" /></p>
+</details>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/anandD17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anandD17" /></a></p>
-<!--
-**AnandD17/AnandD17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing
 
+* I publish practical notes on engineering & product: **[Medium/@AnandD17](https://medium.com/@AnandD17)**
+
+## Let’s connect
+
+* **Email:** [anand17.dev@gmail.com](mailto:anand17.dev@gmail.com)
+* **LinkedIn:** [anand‑doddamani‑b95896219](https://www.linkedin.com/in/anand-doddamani-b95896219)
+* **GitHub:** [anandd17](https://github.com/anandd17)
+* **X (Twitter):** [@anandd017](https://twitter.com/anandd017)
+* **Dev.to:** [dev.to/anandd17](https://dev.to/anandd17)
+
+---
+
+## GitHub Stats & Widgets
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=anandd17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anandd17&show_icons=true" alt="Anand's GitHub stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandd17&layout=compact" alt="Top Langs" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd17" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=anandd17&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd17&custom_title=Anand%20Doddamani%27s%20Contribution%20Graph&hide_border=true" alt="Contribution Graph" />
+</p>
+
+## Support
+
+<a href="https://www.buymeacoffee.com/anandD17">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
