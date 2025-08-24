@@ -99,12 +99,6 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandd17" alt="GitHub Streak" />
 </p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=anandd17&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandd17&custom_title=Anand%20Doddamani%27s%20Contribution%20Graph&hide_border=true" alt="Contribution Graph" />
-</p>
 
 ## Support
 
